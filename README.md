@@ -1,5 +1,5 @@
 # Deformations From Sea Ice Tracker Data
-
+https://doi.org/10.5281/zenodo.14783107
 ## Overview
 
 This project aims at computing arctic sea-ice deformations from icetracker data (Sentinel-1 and RCM). Two distinct methods can be used to compute sea-ice deformations. 
